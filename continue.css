@@ -1,0 +1,38 @@
+.continue{
+    text-align: center;
+}
+.btn{
+    border: 1px solid #3498db;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px;
+    color: #4F6272;
+    margin-bottom: 80px;
+    transition: 0.8s;
+    position: relative;
+    overflow: hidden;
+}
+.btn:hover{
+    color: #fff;
+}
+.goback{
+    text-align: center;
+}
+.btn2{
+    border: 1px solid #3498db;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px;
+    color: #4F6272;
+    margin-bottom: 80px;
+    transition: 0.8s;
+    position: relative;
+    overflow: hidden;
+}
+.btn2:hover{
+    color: #fff;
+}
